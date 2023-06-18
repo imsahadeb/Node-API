@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "This is a simple CRUD Application using nodejs express and mongodb",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "nodejs",
+    "crud",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "Sahadeb",
+  "license": "ISC"
+}
